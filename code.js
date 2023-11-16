@@ -1,5 +1,4 @@
 // 1. Prompt user to input "vanilla,vanilla,vanilla,strawberry,coffee,coffee"
-//prompt("Welcome to Danny's Froyo!");
 let order = prompt("Welcome to Danny's Froyo! Enter your order, separated by commas.")
 // 2. Store input as an array
 let orderArr = order.split(",");
